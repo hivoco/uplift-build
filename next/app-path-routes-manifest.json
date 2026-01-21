@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/blogs/[id]/page": "/blogs/[id]",
+  "/blogs/page": "/blogs",
+  "/contact/page": "/contact",
+  "/faq/page": "/faq",
+  "/page": "/",
+  "/products/go-less-pack/page": "/products/go-less-pack",
+  "/products/gp-brown-rice/page": "/products/gp-brown-rice",
+  "/products/page": "/products",
+  "/products/ww-brown-rice/page": "/products/ww-brown-rice"
+}

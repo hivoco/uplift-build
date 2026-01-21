@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/blogs/[id]/page": "app/blogs/[id]/page.js",
+  "/blogs/page": "app/blogs/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/faq/page": "app/faq/page.js",
+  "/page": "app/page.js",
+  "/products/go-less-pack/page": "app/products/go-less-pack/page.js",
+  "/products/gp-brown-rice/page": "app/products/gp-brown-rice/page.js",
+  "/products/page": "app/products/page.js",
+  "/products/ww-brown-rice/page": "app/products/ww-brown-rice/page.js"
+}
