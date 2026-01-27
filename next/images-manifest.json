@@ -23,7 +23,7 @@
     ],
     "path": "/_next/image/",
     "loader": "custom",
-    "loaderFile": "/Users/ranjan/iCloud Drive (Archive)/Desktop/UPLife/image-loader.ts",
+    "loaderFile": "/Users/ranjan/UPLife/image-loader.ts",
     "domains": [],
     "disableStaticImages": false,
     "minimumCacheTTL": 60,

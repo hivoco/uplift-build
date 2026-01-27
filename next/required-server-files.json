@@ -49,7 +49,7 @@
       ],
       "path": "/_next/image/",
       "loader": "custom",
-      "loaderFile": "/Users/ranjan/iCloud Drive (Archive)/Desktop/UPLife/image-loader.ts",
+      "loaderFile": "/Users/ranjan/UPLife/image-loader.ts",
       "domains": [],
       "disableStaticImages": false,
       "minimumCacheTTL": 60,
@@ -98,7 +98,12 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Users/ranjan/iCloud Drive (Archive)/Desktop/UPLife",
+    "outputFileTracingRoot": "/Users/ranjan/UPLife",
+    "allowedDevOrigins": [
+      "localhost",
+      "127.0.0.1",
+      "192.168.*.*"
+    ],
     "experimental": {
       "useSkewCookie": false,
       "cacheLife": {
@@ -288,10 +293,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "/Users/ranjan/iCloud Drive (Archive)/Desktop/UPLife"
+      "root": "/Users/ranjan/UPLife"
     }
   },
-  "appDir": "/Users/ranjan/iCloud Drive (Archive)/Desktop/UPLife",
+  "appDir": "/Users/ranjan/UPLife",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",
